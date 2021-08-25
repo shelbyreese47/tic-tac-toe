@@ -60,3 +60,12 @@ Practice Project
 - As a player, I want the game to share my wins to Facebook so everyone can know how good I am.
 - As a player, I want to be able to play the game in the language that I speak, so that I can fully understand the game.
 - As a player with a visual limitation, I want to be able to play the game so that I can access its functionality.
+
+**Wireframe**
+
+```md
+![alt text] (image path or URL)
+```
+![Tic Tac Toe WireFrame](https://user-images.githubusercontent.com/75228135/130824882-21327fcf-469b-45ac-a6a8-286f29410443.jpeg)
+
+![Tic Tac Toe WireFrame 2](https://user-images.githubusercontent.com/75228135/130824854-33467b3d-48aa-43ab-b0f2-b8a7d92d7586.jpeg)
